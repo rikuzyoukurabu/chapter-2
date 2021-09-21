@@ -1,0 +1,2 @@
+name = "urakawayu"
+puts name
