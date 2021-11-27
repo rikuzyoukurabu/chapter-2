@@ -1,0 +1,7 @@
+# if
+
+if score > 80 then
+  puts "gureat!"
+else
+  puts "so so...!"
+end
